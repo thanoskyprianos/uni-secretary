@@ -1,0 +1,17 @@
+Id,Name,Semester,ECTS,Mandatory
+EP04,Digital Communications,7,6,0
+K01,Calculus I,2,8,1
+K03,Linear Algebra,1,6,1
+K04,Introduction to Programming,1,7,1
+K06,Calculus II,3,8,1
+K10,Object Oriented Programming,3,8,1
+K16,Communication Networks I,4,6,1
+K20b,Applied Math,2,6,0
+K21,Communication Systems,4,7,1
+K24,System Progrmming,6,8,1
+UP02,Computer Graphics I,5,6,0
+UP05,Cryptography,8,6,0
+UP08,Number Theory,7,6,0
+UP10,Graph Theory,8,6,0
+YS02,Artificial Intelligence I,5,6,0
+YS05,Logical Programming,6,6,0
